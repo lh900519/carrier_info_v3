@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  carrier_info_v3:
+  carrier_info:
     # When depending on this package from a real application you should use:
     #   carrier_info: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

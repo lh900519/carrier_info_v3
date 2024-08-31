@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'dart:async';
-import 'package:carrier_info_v3/carrier_info.dart';
+import 'package:carrier_info/carrier_info.dart';
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 

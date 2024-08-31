@@ -3,7 +3,7 @@
 # Run `pod lib lint carrier_info.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'carrier_info_v3'
+  s.name             = 'carrier_info'
   s.version          = '0.0.2'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

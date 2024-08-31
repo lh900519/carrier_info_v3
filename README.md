@@ -93,5 +93,5 @@ int carrierInfo = await CarrierInfo.lac //  Local Area Code, only on android for
 ## ✨ Contribution
 
 Lots of PR's would be needed to make this plugin standard, as for iOS there's a permanent limitation for getting the exact data usage, there's only one way around it and it's super complex.
-# carrier_info_v3
-# carrier_info_v3
+# carrier_info
+# carrier_info
